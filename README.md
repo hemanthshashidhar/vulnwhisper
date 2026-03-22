@@ -94,7 +94,7 @@ httpx -version       # go install -v github.com/projectdiscovery/httpx/cmd/httpx
 ### Setup
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/vulnwhisper.git
+git clone https://github.com/hemanthshashidhar/vulnwhisper.git
 cd vulnwhisper
 
 # Virtual environment
@@ -188,5 +188,5 @@ PRs are welcome. If you have a tool that belongs in a hunter's arsenal, open an 
 
 ## 📄 License
 
-MIT © 2026 — Built with 🔥 by [YOUR_NAME](https://github.com/YOUR_USERNAME)
+MIT © 2026 — Built by [HEMANTHKUMAR](https://github.com/hemanthshashidhar)
 
